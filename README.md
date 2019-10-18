@@ -22,7 +22,9 @@ Output Format
 Your function will return the length of the largest helicopter that can land in the city, else -1 if input is invalid.
 
 Sample TestCase
+
 Input
+
 5
 x#o#o#o#x#o
 x#o#o#o#x#x
@@ -31,4 +33,5 @@ x#o#x#o#o#x
 x#o#x#o#o#x
 
 Output
+
 3
