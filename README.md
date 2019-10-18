@@ -26,6 +26,7 @@ Sample TestCase
 Input
 
 5
+
 x#o#o#o#x#o
 
 x#o#o#o#x#x
