@@ -26,10 +26,15 @@ Sample TestCase
 Input
 
 5
+
 x#o#o#o#x#o
+
 x#o#o#o#x#x
+
 x#o#o#o#x#x
+
 x#o#x#o#o#x
+
 x#o#x#o#o#x
 
 Output
